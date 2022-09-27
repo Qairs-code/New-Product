@@ -16,7 +16,7 @@
     
     section {
         width: 98%;
-        height: 80vh;
+        height: 80%;
         border-radius: 15px;
         display: flex;
         flex-direction: column;
@@ -30,7 +30,7 @@
 
     .mobile {
         width: 95%;
-        height: 30vh;
+        height: 40%;
         border-top-left-radius: 15px;
         border-top-right-radius: 15px;
     }
@@ -38,7 +38,7 @@
     section > article {
         background-color: white;
         width: 95%;
-        height: 60vh;
+        height: 70%;
         padding: 30px 35px;
         border-bottom-left-radius: 15px;
         border-bottom-right-radius: 15px;
@@ -125,7 +125,7 @@
     
     section {
         width: 98%;
-        height: 80vh;
+        height: 80%;
         border-radius: 15px;
         display: flex;
         flex-direction: column;
@@ -139,7 +139,7 @@
 
     .mobile {
         width: 95%;
-        height: 40vh;
+        height: 40%;
         border-top-left-radius: 15px;
         border-top-right-radius: 15px;
     }
@@ -147,7 +147,7 @@
     section > article {
         background-color: white;
         width: 95%;
-        height: 100vh;
+        height: 70%;
         padding: 30px 35px;
         border-bottom-left-radius: 15px;
         border-bottom-right-radius: 15px;
@@ -233,7 +233,7 @@
     
     section {
         width: 98%;
-        height: 90vh;
+        height: 90%;
         border-radius: 15px;
         display: flex;
         flex-direction: column;
@@ -247,7 +247,7 @@
 
     .mobile {
         width: 95%;
-        height: 40vh;
+        height: 40%;
         border-top-left-radius: 15px;
         border-top-right-radius: 15px;
     }
@@ -255,7 +255,7 @@
     section > article {
         background-color: white;
         width: 95%;
-        height: 100vh;
+        height: 70%;
         padding: 30px 35px;
         border-bottom-left-radius: 15px;
         border-bottom-right-radius: 15px;
@@ -341,7 +341,7 @@
     
     section {
         width: 70%;
-        height: 60vh;
+        height: 60%;
         border-radius: 15px;
         display: flex;
         justify-content: center;
@@ -350,7 +350,7 @@
     
     .desktop {
         width: 50%;
-        height: 60vh;
+        height: 100%;
         border-top-left-radius: 15px;
         border-bottom-left-radius: 15px;
     }
@@ -362,7 +362,7 @@
     section > article {
         background-color: white;
         width: 60%;
-        height: 60vh;
+        height: 100%;
         padding: 20px 17px 20px 20px;
         border-top-right-radius: 15px;
         border-bottom-right-radius: 15px;
@@ -448,7 +448,7 @@
     
     section {
         width: 60%;
-        height: 60vh;
+        height: 60%;
         border-radius: 15px;
         display: flex;
         justify-content: center;
@@ -457,7 +457,7 @@
     
     .desktop {
         width: 50%;
-        height: 60vh;
+        height: 100%;
         border-top-left-radius: 15px;
         border-bottom-left-radius: 15px;
     }
@@ -469,7 +469,7 @@
     section > article {
         background-color: white;
         width: 50%;
-        height: 60vh;
+        height: 100%;
         padding: 25px 25px 20px 25px;
         border-top-right-radius: 15px;
         border-bottom-right-radius: 15px;
@@ -555,7 +555,7 @@
     
     section {
         width: 45%;
-        height: 60vh;
+        height: 60%;
         border-radius: 15px;
         display: flex;
         justify-content: center;
@@ -568,7 +568,7 @@
     
     .desktop {
         width: 50%;
-        height: 60vh;
+        height: 100%;
         border-top-left-radius: 15px;
         border-bottom-left-radius: 15px;
     }
@@ -576,7 +576,7 @@
     section > article {
         background-color: white;
         width: 50%;
-        height: 60vh;
+        height: 100%;
         padding: 30px 35px;
         border-top-right-radius: 15px;
         border-bottom-right-radius: 15px;
@@ -654,7 +654,7 @@
     
     section {
         width: 45%;
-        height: 60vh;
+        height: 60%;
         border-radius: 15px;
         display: flex;
         justify-content: center;
@@ -667,7 +667,7 @@
     
     .desktop {
         width: 50%;
-        height: 60vh;
+        height: 100%;
         border-top-left-radius: 15px;
         border-bottom-left-radius: 15px;
     }
@@ -675,7 +675,7 @@
     section > article {
         background-color: white;
         width: 50%;
-        height: 60vh;
+        height: 100%;
         padding: 30px 35px;
         border-top-right-radius: 15px;
         border-bottom-right-radius: 15px;
